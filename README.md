@@ -8,12 +8,12 @@ Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sist
 - Prototipando o projeto final da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!)
 - Criando um novo design para um projeto escolar antigo que pode ser encontrado [aqui.](https://dalgonafox.github.io/SENAI/projetos/divisaocelular/)
 
-### estou aprendendo...
+### Estou aprendendo...
 - Python: pelo curso do SENAI "Fundamerntos do Python 1";
 - C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;
 
 
-### Contato
+### Entre em Contato!
 Caso tenha dúvidas, sugestões ou propostas, entre em contato:
 - Email: mila.olisantos@gmail.com
 - GitHub: [DalgonaFox](https://github.com/DalgonaFox)
