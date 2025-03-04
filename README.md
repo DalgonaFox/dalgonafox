@@ -17,7 +17,7 @@ Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sist
 Caso tenha dúvidas, sugestões ou propostas, entre em contato:
 - Email: mila.olisantos@gmail.com
 - GitHub: [DalgonaFox](https://github.com/DalgonaFox)
-- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos-432611278/).
+- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos-432611278/)
 <!--
 **DalgonaFox/dalgonafox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
