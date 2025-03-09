@@ -5,7 +5,7 @@ Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sist
 ### No momento, estou trabalhando com...
 - Aprimorando meu Github (adicionando READMEs em todo lugar, finalizando projetos não finalizados e adicionando/organizando repositórios...);
 - Desenvolvendo meu Portfólio Pessoal (acesse a versão em progresso [aqui!](https://portfoliomilenaosantos.onrender.com/));
-- Prototipando o projeto final da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!)
+- Prototipando o projeto semestral da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!)
 - Criando um novo design para um projeto escolar antigo que pode ser encontrado [aqui.](https://dalgonafox.github.io/SENAI/projetos/divisaocelular/)
 
 ### Estou aprendendo...
