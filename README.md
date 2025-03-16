@@ -1,33 +1,22 @@
-## Seja bem-vindo à minha página no Github! ✨
+# 💫 Eu sou a Milena, e seja bem-vindo ao meu Github! <br>
+<br>Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI, estou no primeiro semestre da faculdade em ADS no IFSP e estou à procura do meu primeiro emprego na área. Tenho muito o que aprender ainda, mas estou mais que disposta a evoluir na área e trilhar meu caminho para me tornar uma desenvolvedora Full Stack!<br>
+<br>No momento, estou trabalhando com...<br>
+-  Aprimorando meu Github (adicionando READMEs em todo lugar, dando continuidade a projetos não finalizados e adicionando/organizando repositórios...);
+-  <br>- Desenvolvendo meu Portfólio Pessoal (acesse a versão em progresso [aqui!](https://portfoliomilenaosantos.onrender.com/));
+-  <br>- Prototipando o projeto semestral da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!)<br>
+<br>Estou aprendendo...<br>- Python: pelo curso do SENAI "Fundamerntos do Python 1";
+<br>- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;<br>
+<br>
 
-Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI, estou no primeiro semestre da faculdade em ADS no IFSP e estou à procura do meu primeiro emprego na área. Tenho muito o que aprender ainda, mas estou mais que disposta a evoluir na área e trilhar meu caminho para me tornar uma desenvolvedora Full Stack!
+# 🌐 Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milena-oliveira-santos-432611278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mila.olisantos@gmail.com) 
 
-### No momento, estou trabalhando com...
-- Aprimorando meu Github (adicionando READMEs em todo lugar, dando continuidade a projetos não finalizados e adicionando/organizando repositórios...);
-- Desenvolvendo meu Portfólio Pessoal (acesse a versão em progresso [aqui!](https://portfoliomilenaosantos.onrender.com/));
-- Prototipando o projeto semestral da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!)
+# 💻 Habilidades Técnicas:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Estou aprendendo...
-- Python: pelo curso do SENAI "Fundamerntos do Python 1";
-- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;
+# 📊 Gráficos do Github:
+![](https://github-readme-stats.vercel.app/api?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dalgonafox&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-### Entre em Contato!
-Caso tenha dúvidas, sugestões ou propostas, entre em contato:
-- Email: mila.olisantos@gmail.com
-- GitHub: [DalgonaFox](https://github.com/DalgonaFox)
-- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos-432611278/)
-<!--
-**DalgonaFox/dalgonafox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
