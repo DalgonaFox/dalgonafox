@@ -40,7 +40,7 @@ Acesse [aqui](https://portfoliomilenaosantos.onrender.com/)) o meu portfólio pr
 
 # 📊 Gráficos do Github:
 ![](https://github-readme-stats.vercel.app/api?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=dalgonafox&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dalgonafox&theme=midnight-purple&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
