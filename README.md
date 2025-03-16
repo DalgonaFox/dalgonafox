@@ -39,8 +39,8 @@ Acesse [aqui](https://portfoliomilenaosantos.onrender.com/)) o meu portfólio pr
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # 📊 Gráficos do Github:
-![](https://github-readme-stats.vercel.app/api?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dalgonafox&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dalgonafox&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
