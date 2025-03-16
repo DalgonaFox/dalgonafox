@@ -1,11 +1,14 @@
 # 💫 Eu sou a Milena, e seja bem-vindo ao meu Github! <br>
 <br>Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI, estou no primeiro semestre da faculdade em ADS no IFSP e estou à procura do meu primeiro emprego na área. Tenho muito o que aprender ainda, mas estou mais que disposta a evoluir na área e trilhar meu caminho para me tornar uma desenvolvedora Full Stack!<br>
-<br>No momento, estou trabalhando com...<br>
+<br>
+## 🎯 No momento, estou trabalhando com...<br>
 -  Aprimorando meu Github (adicionando READMEs em todo lugar, dando continuidade a projetos não finalizados e adicionando/organizando repositórios...);
--  <br>- Desenvolvendo meu Portfólio Pessoal (acesse a versão em progresso [aqui!](https://portfoliomilenaosantos.onrender.com/));
--  <br>- Prototipando o projeto semestral da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!)<br>
-<br>Estou aprendendo...<br>- Python: pelo curso do SENAI "Fundamerntos do Python 1";
-<br>- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;<br>
+- Desenvolvendo meu Portfólio Pessoal (acesse a versão em progresso [aqui!](https://portfoliomilenaosantos.onrender.com/));
+- Prototipando o projeto semestral da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!)<br>
+<br>
+## ✍️ Estou aprendendo...
+- Python: pelo curso do SENAI "Fundamerntos do Python 1";
+- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;<br>
 <br>
 
 # 🌐 Contato:
