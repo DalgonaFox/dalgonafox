@@ -8,7 +8,7 @@ Acesse [aqui](https://portfoliomilenaosantos.onrender.com/)) o meu portfólio pr
 - Prototipando uma página de cursos online chamada "Facilita"!
 
 ## ✍️ Estou aprendendo...
-- Python: pelo curso do SENAI "Fundamerntos do Python 1";
+- Python: pelo curso do SENAI "Fundamentos do Python 1";
 - C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;
 <br>
 
