@@ -9,8 +9,8 @@ Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sist
 - Prototipando uma página de cursos online chamada "Facilita"!
 
 ## ✍️ Estou aprendendo...
-- Python: pelo curso do SENAI "Fundamentos do Python 1";
-- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;
+- [Python](https://github.com/DalgonaFox/python): estudando de forma autodidata pelo Youtube;
+- [C](https://github.com/DalgonaFox/ADS.IFSP/tree/main/ALPR): na disciplina "Algoritmos e Lógica de Programação" da faculdade;
 <br>
 
 # 🌐 Contato:
