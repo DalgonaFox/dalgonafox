@@ -1,8 +1,7 @@
 # 💫 Desenvolvedora Front-End <br>
 ## 🍀 Milena Oliveira Santos <br>
 Acabei de sair no Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI, estou no primeiro semestre da faculdade em ADS no IFSP e estou à procura do meu primeiro emprego na área. Tenho muito o que aprender ainda, mas estou mais que disposta a evoluir na área e trilhar meu caminho para me tornar uma desenvolvedora Full Stack!
-
-### [Portfólio Profissional](https://portfoliomilenaosantos.onrender.com/)
+#### ☄️ [Portfólio Profissional](https://portfoliomilenaosantos.onrender.com/)
 
 ## 🎯 No momento, estou trabalhando com...
 -  Aprimorando meu Github (adicionando READMEs em todo lugar, dando continuidade a projetos não finalizados e adicionando/organizando repositórios...);
