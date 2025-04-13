@@ -10,7 +10,7 @@ Acabei de concluir o Ensino Médio integrado ao Técnico em Desenvolvimento de S
 
 ## ✍️ Estou aprendendo...
 - [Python](https://github.com/DalgonaFox/python): estudando de forma autodidata pelo Youtube;
-- [C](https://github.com/DalgonaFox/ADS.IFSP/tree/main/ALPR): na disciplina "Algoritmos e Lógica de Programação" da faculdade;
+- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;
 <br>
 
 # 🌐 Contato:
