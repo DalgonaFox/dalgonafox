@@ -1,16 +1,17 @@
-# Desenvolvedora Front-End <br>
+# Estagiária em Engenharia de Software <br>
 ## Milena Oliveira Santos <br>
-Acabei de concluir o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI, estou no primeiro semestre da faculdade em ADS no IFSP e estou à procura do meu primeiro emprego na área. Tenho muito o que aprender ainda, mas estou mais que disposta a evoluir na área e trilhar meu caminho para me tornar uma desenvolvedora Full Stack!
+Concluí o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI em 2024, estou no primeiro semestre da faculdade em Análise e Desenvolvimento de Sistemas no IFSP e estou estagiando no Itaú na área de Back-end. No momento estou evoluindo muito na área e trilhando meu caminho para me tornar uma desenvolvedora de software.
 #### ☄️ [Portfólio Profissional](https://portfoliomilenaosantos.onrender.com/)
 
-## 🎯 No momento, estou trabalhando com...
--  Aprimorando meu Github (adicionando READMEs em todo lugar, dando continuidade a projetos não finalizados e adicionando/organizando repositórios...);
-- Prototipando o projeto semestral da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!);
-- Prototipando uma página de cursos online chamada "Facilita"!
+[//]: <> (## 🎯 No momento, estou trabalhando com...)
+[//]: <> (-  Aprimorando meu Github (adicionando READMEs em todo lugar, dando continuidade a projetos não finalizados e adicionando/organizando repositórios...);)
+[//]: <> (- Prototipando o projeto semestral da matéria de Desenvolvimento Front-End da faculdade (vai se tornar um novo repositório no futuro!);)
+[//]: <> (- Prototipando uma página de cursos online chamada "Facilita"!)
 
-## ✍️ Estou aprendendo...
-- [Python](https://github.com/DalgonaFox/python): estudando de forma autodidata pelo Youtube;
-- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;
+[//]: <> (## ✍️ Estou aprendendo...)
+[//]: <> (- [Python](https://github.com/DalgonaFox/python): estudando de forma autodidata pelo Youtube;)
+[//]: <> (- C: na disciplina "Algoritmos e Lógica de Programação" da faculdade;)
+[//]: <> (- Java, AWS, Docker, Datadog, entre outros: No meu estágio no Itaú;)
 <br>
 
 # 🌐 Contato:
