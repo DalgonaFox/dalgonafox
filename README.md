@@ -1,13 +1,13 @@
 # Estagiária em Engenharia de Software <br>
 ## Milena Oliveira Santos <br>
-Concluí o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI em 2024, estou no primeiro semestre da faculdade em Análise e Desenvolvimento de Sistemas no IFSP e estou estagiando no Itaú na área de Back-end. No momento estou evoluindo muito na área e trilhando meu caminho para me tornar uma desenvolvedora de software.
+Concluí o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI em 2024, estou no primeiro semestre da faculdade em Análise e Desenvolvimento de Sistemas no IFSP e estagio no Itaú na área de Back-end. No momento estou evoluindo muito na área e trilhando meu caminho para me tornar uma desenvolvedora de software.
 #### ☄️ [Portfólio Profissional](https://portfoliomilenaosantos.onrender.com/)
 <br>
 
-# 🌐 Contato:
+# 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milena-oliveira-santos-432611278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mila.olisantos@gmail.com) 
 
-# 💻 Habilidades Técnicas:
+# 💻 Habilidades Técnicas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -30,7 +30,7 @@ Concluí o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 Gráficos do Github:
+# 📊 Métricas
 ![](https://github-readme-stats.vercel.app/api?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dalgonafox&theme=midnight-purple&hide_border=false)<br/>
