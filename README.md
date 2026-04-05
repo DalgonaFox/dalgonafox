@@ -1,6 +1,6 @@
 # Estagiária em Engenharia de Software
 ## Milena Oliveira Santos <br>
-Sou Técnica em Desenvolvimento de Sistemas pelo SENAI, estou cursando Análise e Desenvolvimento de Sistemas no IFSP e estagio no Itaú na área de Back-end. No momento estou evoluindo muito na área e trilhando meu caminho para me tornar uma desenvolvedora de software Júnior.
+Sou estagiária em Back-End no Itaú Unibanco, técnica em Desenvolvimento de Sistemas pelo SENAI, e estou cursando Análise e Desenvolvimento de Sistemas no IFSP. No momento estou evoluindo muito na área e trilhando meu caminho para me tornar uma desenvolvedora de software Júnior.
 #### ☄️ [Portfólio Profissional](https://portfoliomilenaosantos.onrender.com/)
 <br>
 
