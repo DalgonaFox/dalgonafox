@@ -23,12 +23,12 @@ Sou estagiária em Back-End no Itaú Unibanco, técnica em Desenvolvimento de Si
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-# 📊 Métricas
+<!-- # 📊 Métricas
 ![](https://github-readme-stats.vercel.app/api?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dalgonafox&theme=midnight-purple&hide_border=false)<br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dalgonafox&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
