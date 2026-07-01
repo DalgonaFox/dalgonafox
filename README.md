@@ -2,7 +2,6 @@
 ## Milena Oliveira Santos <br>
 Sou estagiária em Back-End no Itaú Unibanco (Jul/2025 - atual), técnica em Desenvolvimento de Sistemas pelo SENAI (Jan/2023 - Dez/2024), e estou cursando Análise e Desenvolvimento de Sistemas no IFSP (Jul/2025 - atual). No momento estou evoluindo muito na área e trilhando o caminho para me tornar uma desenvolvedora júnior.
 #### 🔍 [Portfólio Profissional](https://portfoliomilenaosantos.onrender.com/)
-<br>
 
 # 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milena-oliveira-santos-432611278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mila.olisantos@gmail.com) 
