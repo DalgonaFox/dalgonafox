@@ -1,5 +1,5 @@
 # Estagiária em Engenharia de Software
-Sou estagiária em Back-End (Jul/2025 - atual), técnica em Desenvolvimento de Sistemas (Jan/2023 - Dez/2024), e estou cursando Análise e Desenvolvimento de Sistemas (Jul/2025 - atual). No momento estou evoluindo muito na área e trilhando o caminho para me tornar uma desenvolvedora júnior.
+Sou estagiária em Back-End (Jul/2025 - atual), técnica em Desenvolvimento de Sistemas (Jan/2023 - Dez/2024), e estou cursando Análise e Desenvolvimento de Sistemas (Jul/2025 - atual). No momento estou buscando me tornar uma desenvolvedora júnior.
 
 # 🌐 Contato
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mila.olisantos@gmail.com) 
